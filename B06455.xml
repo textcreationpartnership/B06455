@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Virginity grown troublesome: or, The younger sister lamentation for want of a husband. Being a most pleasant and delightful new song much in use, &amp;c. Each age grows riper, love does still prevail, and maiden-heads at sixteen now are stale; young girls to mothers will be turn'd e're they know what it means, slie Cupid does betray, fires them with love, and then there's nothing can cure their distemper, unless oyl of man. to a pleasant new west-country tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06455</idno>
+            <idno type="STC">Wing V637</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[133]</idno>
+            <idno type="EEBO-CITATION">99887339</idno>
+            <idno type="PROQUEST">ocm99887339</idno>
+            <idno type="VID">182050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182050)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[133])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Virginity grown troublesome: or, The younger sister lamentation for want of a husband. Being a most pleasant and delightful new song much in use, &amp;c. Each age grows riper, love does still prevail, and maiden-heads at sixteen now are stale; young girls to mothers will be turn'd e're they know what it means, slie Cupid does betray, fires them with love, and then there's nothing can cure their distemper, unless oyl of man. to a pleasant new west-country tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby, at the Golden-Ball, in West-smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I have a good old mother at home ..."</note>
+                  <note>Place, date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182050:1"/>
+            <head>
+               <hi>Virginity grown Troubleſome:</hi> OR, The Younger Siſters Lamentation for want of a Husband.</head>
+            <argument>
+               <l>
+                  <hi>Being a moſt pleaſant and Delightful New Song much in uſe,</hi> &amp;c.</l>
+               <l>Each Age grows Riper, love does ſtill prevail,</l>
+               <l>And Maiden-heads at Sixteen now are ſtale;</l>
+               <l>Young Girls to Mothers will be turn'd e're they</l>
+               <l>Know what it means, ſlie <hi>Cupid</hi> does betray,</l>
+               <l>Fires them with love, and then there's nothing can</l>
+               <l>Cure their diſtemper, unleſs Oyl of Man.</l>
+            </argument>
+            <opener>to a pleaſant New Weſt-Country Tune.</opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of person</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Have a good old Mother at home,</l>
+               <l>which keeps me from Wedlock ſtill,</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never have my will.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As I walkt forth within the fields,</l>
+               <l>to ſee the Buſhes ſpring;</l>
+               <l>The little Birds they chang'd their notes,</l>
+               <l>and I heard the Cuckoo ſing.</l>
+            </lg>
+            <lg>
+               <l>My Siſter is married to her content,</l>
+               <l>and is made a wedded Wife;</l>
+               <l>And with her Husband ſhe doth live,</l>
+               <l>a ſweet contented life.</l>
+            </lg>
+            <lg>
+               <l>But I poor ſoul muſt lye alone,</l>
+               <l>who am more fair than ſhe;</l>
+               <l>
+                  <hi>VVhat ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There is ne'r a one in all the Town,</l>
+               <l>that can compare with me:</l>
+               <l>
+                  <hi>VVhat ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never Married be.</hi>
+               </l>
+            </lg>
+            <p>
+               <pb facs="tcp:182050:1"/>
+               <figure>
+                  <figDesc>depiction of man</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>NOw I muſt into ſome far Countrey,</l>
+               <l>or into ſome forraign Land;</l>
+               <l>For to find out a bonny Lad,</l>
+               <l>to be at my command.</l>
+            </lg>
+            <lg>
+               <l>Love pleaſures all things do ſurpaſs,</l>
+               <l>as I do plainly ſee;</l>
+               <l>
+                  <hi>VVhat ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come ſome brisk Lad, O come with ſpeed,</l>
+               <l>and me from care ſet free;</l>
+               <l>
+                  <hi>O what ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Alas, for what was beauty made,</l>
+               <l>was't only for to ſee:</l>
+               <l>
+                  <hi>What ſhall I do, I am afraid</hi>
+               </l>
+               <l>
+                  <hi>I ne'r ſhall, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To languiſh thus is worſe then death,</l>
+               <l>ſome ſweet youth come wedd me;</l>
+               <l>
+                  <hi>What ſhall I looſe my Virgin breath,</hi>
+               </l>
+               <l>
+                  <hi>and never Married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Kind Heaven my Siſter did befriend,</l>
+               <l>whilſt none's more lov'd then ſhe:</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never Married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Good <hi>Cupid</hi> at ſome gentle heart</l>
+               <l>let thy ſwift Arrow flee;</l>
+               <l>Will no kind Young-man take my part,</l>
+               <l>
+                  <hi>that I may Married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O cruel young men, what d'ye mean,</l>
+               <l>from joy to hinder me;</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Is it my Portions ſmallneſs then,</l>
+               <l>that make you not agree;</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If it be that i'le make it more,</l>
+               <l>to labour i'le be free;</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh how I ſigh to lye alone,</l>
+               <l>and wiſh for Company;</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I make moan,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To tear my Hair I ſcarce refrain,</l>
+               <l>when Weddings I do ſee;</l>
+               <l>
+                  <hi>What ſhall I always feel this pain,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How bleſs'd are they who in each Grove,</l>
+               <l>receive embraces free,</l>
+               <l>
+                  <hi>What ſhall I do, ſhall I dye for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then ſome kind youth come plvck the fruit</l>
+               <l>from blooming beauty's Tree:</l>
+               <l>
+                  <hi>What ſhall I dye, in this diſpute,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe twenty years now have I liv'd,</l>
+               <l>and none e're asked me:</l>
+               <l>
+                  <hi>Let me not dye, kind youths for love,</hi>
+               </l>
+               <l>
+                  <hi>and never married be.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball, in Weſt-ſmithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
